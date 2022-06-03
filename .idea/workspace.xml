@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="705b738a-7d56-49be-9bb9-aaf6629e5fd0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2A5HfEuXw5IlvspUCuOGfqzDltI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager" selected="JUnit.AT04_GlobalVariables.test06">
+    <configuration name="AT02_LearnAboutMethod_Junit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AmarProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicsOfJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BasicsOfJava" />
+      <option name="MAIN_CLASS_NAME" value="BasicsOfJava.AT02_LearnAboutMethod_Junit" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AT03_StringInt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AmarProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicsOfJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BasicsOfJava" />
+      <option name="MAIN_CLASS_NAME" value="BasicsOfJava.AT03_StringInt" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AT03_StringInt.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AmarProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicsOfJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BasicsOfJava" />
+      <option name="MAIN_CLASS_NAME" value="BasicsOfJava.AT03_StringInt" />
+      <option name="METHOD_NAME" value="test03" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AT03_StringInt.test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AmarProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicsOfJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BasicsOfJava" />
+      <option name="MAIN_CLASS_NAME" value="BasicsOfJava.AT03_StringInt" />
+      <option name="METHOD_NAME" value="test04" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AT04_GlobalVariables.test06" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AmarProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicsOfJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BasicsOfJava" />
+      <option name="MAIN_CLASS_NAME" value="BasicsOfJava.AT04_GlobalVariables" />
+      <option name="METHOD_NAME" value="test06" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AT04_GlobalVariables.test06" />
+        <item itemvalue="JUnit.AT03_StringInt.test04" />
+        <item itemvalue="JUnit.AT03_StringInt" />
+        <item itemvalue="JUnit.AT03_StringInt.test03" />
+        <item itemvalue="JUnit.AT02_LearnAboutMethod_Junit" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="705b738a-7d56-49be-9bb9-aaf6629e5fd0" name="Default Changelist" comment="" />
+      <created>1654292627081</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654292627081</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1326" height="227" key="GridCell.Tab.0.bottom" timestamp="1654295345217">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="227" key="GridCell.Tab.0.bottom/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1654295345217" />
+    <state width="1326" height="227" key="GridCell.Tab.0.center" timestamp="1654295345217">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="227" key="GridCell.Tab.0.center/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1654295345217" />
+    <state width="1326" height="227" key="GridCell.Tab.0.left" timestamp="1654295345217">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="227" key="GridCell.Tab.0.left/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1654295345217" />
+    <state width="1326" height="227" key="GridCell.Tab.0.right" timestamp="1654295345217">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="227" key="GridCell.Tab.0.right/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1654295345217" />
+  </component>
+</project>
