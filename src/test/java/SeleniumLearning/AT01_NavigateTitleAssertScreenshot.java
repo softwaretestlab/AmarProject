@@ -27,19 +27,22 @@ public class AT01_NavigateTitleAssertScreenshot {
         //Navigate to webpage
         driver.get("https://www.harveynorman.com.au/");
         //implicit wait
-        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+        driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
         //get title of webpage
         String ActualTitleName=driver.getTitle();
         System.out.println("ActualTitleName : "+ActualTitleName);
         String ExpectedTitle="Harvey Norman | Shop Online for Computers, Electrical, Furniture, Bedding, Bathrooms & Flooring | Harvey Norman Australia";
-//Assertion Version-1
+    //Assertion Version-1
         Assert.assertEquals(ExpectedTitle,ActualTitleName);
-//Assert version-2
+    //Assert version-2
         Assert.assertTrue(ActualTitleName.contains("Computers"));
 
         //Screenshot
+        // this line we took screenshot and we have screenshot as file
         File screenshotFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+       // now we want to copy screenshot file into png in our local machine
         FileUtils.copyFile(screenshotFile, new File("C:\\Users\\etikalaj\\screenshot.png"));
+        driver.close();
 
     }
 }

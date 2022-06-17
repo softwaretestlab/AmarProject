@@ -2,21 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="705b738a-7d56-49be-9bb9-aaf6629e5fd0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/JavaOOPSconcepts/AT05_InHeritance01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JavaOOPSconcepts/AT06_InHeritance02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JavaOOPSconcepts/AT07_InHeritance03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JavaOOPSconcepts/AT08_Polymorphism_MethodOverLoading01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JavaOOPSconcepts/AT09_Polymorphism_MethodOverLoading02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JavaOOPSconcepts/AT10_Polymorphism_MethodOverRiding01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JavaOOPSconcepts/AT11_Polymorphism_MethodOverRiding02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JavaOOPSconcepts/AT13_AbstractClass01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JavaOOPSconcepts/AT14_AbstractClass02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JavaOOPSconcepts/AT15_Interface01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JavaOOPSconcepts/AT16_Interface02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT01_NavigateTitleAssertScreenshot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT02_LocatorsLearning.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/JavaOOPSconcepts/AT04_Encapsulation02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/JavaOOPSconcepts/AT04_Encapsulation02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT01_NavigateTitleAssertScreenshot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT01_NavigateTitleAssertScreenshot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumLearning/AT01_NavigateTitleAssertScreenshot.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SeleniumLearning/AT01_NavigateTitleAssertScreenshot.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +55,7 @@
       <recent name="LoopsNConditionalStatments" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AT01_NavigateTitleAssertScreenshot">
+  <component name="RunManager" selected="JUnit.AT02_LocatorsLearning">
     <configuration name="AT01_NavigateTitleAssertScreenshot" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AmarProject" />
       <extension name="coverage">
@@ -97,32 +87,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AT14_AbstractClass02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AT02_LocatorsLearning" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AmarProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaOOPSconcepts.*" />
+          <option name="PATTERN" value="SeleniumLearning.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="JavaOOPSconcepts" />
-      <option name="MAIN_CLASS_NAME" value="JavaOOPSconcepts.AT14_AbstractClass02" />
+      <option name="PACKAGE_NAME" value="SeleniumLearning" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumLearning.AT02_LocatorsLearning" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AT14_AbstractClass02.divOfNum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AT02_LocatorsLearning.locLearn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AmarProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaOOPSconcepts.*" />
+          <option name="PATTERN" value="SeleniumLearning.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="JavaOOPSconcepts" />
-      <option name="MAIN_CLASS_NAME" value="JavaOOPSconcepts.AT14_AbstractClass02" />
-      <option name="METHOD_NAME" value="divOfNum" />
+      <option name="PACKAGE_NAME" value="SeleniumLearning" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumLearning.AT02_LocatorsLearning" />
+      <option name="METHOD_NAME" value="locLearn" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -145,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AT01_NavigateTitleAssertScreenshot" />
+        <item itemvalue="JUnit.AT02_LocatorsLearning" />
+        <item itemvalue="JUnit.AT02_LocatorsLearning.locLearn" />
         <item itemvalue="JUnit.AT01_NavigateTitleAssertScreenshot.NavtoWebPage" />
+        <item itemvalue="JUnit.AT01_NavigateTitleAssertScreenshot" />
         <item itemvalue="JUnit.AT16_Interface02" />
-        <item itemvalue="JUnit.AT14_AbstractClass02" />
-        <item itemvalue="JUnit.AT14_AbstractClass02.divOfNum" />
       </list>
     </recent_temporary>
   </component>
@@ -178,29 +168,29 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="93" y="93" width="1181" height="685" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1655071755267" />
-    <state width="1326" height="476" key="GridCell.Tab.0.bottom" timestamp="1655072066615">
+    <state width="1326" height="2" key="GridCell.Tab.0.bottom" timestamp="1655505490866">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="476" key="GridCell.Tab.0.bottom/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1655072066615" />
+    <state width="1326" height="2" key="GridCell.Tab.0.bottom/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1655505490866" />
     <state width="1326" height="227" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1654483402834" />
-    <state width="1326" height="476" key="GridCell.Tab.0.center" timestamp="1655072066614">
+    <state width="1326" height="2" key="GridCell.Tab.0.center" timestamp="1655505490865">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="476" key="GridCell.Tab.0.center/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1655072066614" />
+    <state width="1326" height="2" key="GridCell.Tab.0.center/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1655505490865" />
     <state width="1326" height="227" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1654483402834" />
-    <state width="1326" height="476" key="GridCell.Tab.0.left" timestamp="1655072066614">
+    <state width="1326" height="2" key="GridCell.Tab.0.left" timestamp="1655505490865">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="476" key="GridCell.Tab.0.left/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1655072066614" />
+    <state width="1326" height="2" key="GridCell.Tab.0.left/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1655505490865" />
     <state width="1326" height="227" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1654483402834" />
-    <state width="1326" height="476" key="GridCell.Tab.0.right" timestamp="1655072066615">
+    <state width="1326" height="2" key="GridCell.Tab.0.right" timestamp="1655505490866">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="476" key="GridCell.Tab.0.right/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1655072066615" />
+    <state width="1326" height="2" key="GridCell.Tab.0.right/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1655505490866" />
     <state width="1326" height="227" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1654483402834" />
-    <state x="392" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1654376681132">
+    <state x="392" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1655172059753">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="392" y="264" key="com.intellij.ide.util.TipDialog/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1654376681132" />
+    <state x="392" y="264" key="com.intellij.ide.util.TipDialog/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1655172059753" />
   </component>
 </project>

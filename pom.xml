@@ -25,11 +25,13 @@
       <version>4.11</version>
       <scope>test</scope>
     </dependency>
+    <!-- This dependency is for selenium -->
     <dependency>
       <groupId>org.seleniumhq.selenium</groupId>
       <artifactId>selenium-java</artifactId>
       <version>4.0.0</version>
     </dependency>
+    <!-- This dependency is for browser -->
     <dependency>
       <groupId>io.github.bonigarcia</groupId>
       <artifactId>webdrivermanager</artifactId>
