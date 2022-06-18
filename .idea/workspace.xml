@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="705b738a-7d56-49be-9bb9-aaf6629e5fd0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT02_LocatorsLearning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT03_LocatorsLearning02_ScrollToElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT06_RadioButtonSelect.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT01_NavigateTitleAssertScreenshot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT01_NavigateTitleAssertScreenshot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumLearning/AT01_NavigateTitleAssertScreenshot.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SeleniumLearning/AT01_NavigateTitleAssertScreenshot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumLearning/AT02_LocatorsLearning.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SeleniumLearning/AT02_LocatorsLearning.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,22 +54,7 @@
       <recent name="LoopsNConditionalStatments" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AT02_LocatorsLearning">
-    <configuration name="AT01_NavigateTitleAssertScreenshot" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="AmarProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SeleniumLearning.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="SeleniumLearning" />
-      <option name="MAIN_CLASS_NAME" value="SeleniumLearning.AT01_NavigateTitleAssertScreenshot" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.AT06_RadioButtonSelect.NavHn">
     <configuration name="AT01_NavigateTitleAssertScreenshot.NavtoWebPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AmarProject" />
       <extension name="coverage">
@@ -118,28 +102,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AT16_Interface02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AT03_LocatorsLearning02_ScrollToElement.locLearn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AmarProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaOOPSconcepts.*" />
+          <option name="PATTERN" value="SeleniumLearning.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="JavaOOPSconcepts" />
-      <option name="MAIN_CLASS_NAME" value="JavaOOPSconcepts.AT16_Interface02" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="SeleniumLearning" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumLearning.AT03_LocatorsLearning02_ScrollToElement" />
+      <option name="METHOD_NAME" value="locLearn" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AT06_RadioButtonSelect.NavHn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AmarProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumLearning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SeleniumLearning" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumLearning.AT06_RadioButtonSelect" />
+      <option name="METHOD_NAME" value="NavHn" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AT06_RadioButtonSelect.NavHn" />
+        <item itemvalue="JUnit.AT03_LocatorsLearning02_ScrollToElement.locLearn" />
         <item itemvalue="JUnit.AT02_LocatorsLearning" />
         <item itemvalue="JUnit.AT02_LocatorsLearning.locLearn" />
         <item itemvalue="JUnit.AT01_NavigateTitleAssertScreenshot.NavtoWebPage" />
-        <item itemvalue="JUnit.AT01_NavigateTitleAssertScreenshot" />
-        <item itemvalue="JUnit.AT16_Interface02" />
       </list>
     </recent_temporary>
   </component>
@@ -168,29 +169,33 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="93" y="93" width="1181" height="685" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1655071755267" />
-    <state width="1326" height="2" key="GridCell.Tab.0.bottom" timestamp="1655505490866">
+    <state width="1326" height="311" key="GridCell.Tab.0.bottom" timestamp="1655538964877">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="2" key="GridCell.Tab.0.bottom/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1655505490866" />
+    <state width="1326" height="311" key="GridCell.Tab.0.bottom/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1655538964877" />
     <state width="1326" height="227" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1654483402834" />
-    <state width="1326" height="2" key="GridCell.Tab.0.center" timestamp="1655505490865">
+    <state width="1326" height="311" key="GridCell.Tab.0.center" timestamp="1655538964876">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="2" key="GridCell.Tab.0.center/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1655505490865" />
+    <state width="1326" height="311" key="GridCell.Tab.0.center/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1655538964876" />
     <state width="1326" height="227" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1654483402834" />
-    <state width="1326" height="2" key="GridCell.Tab.0.left" timestamp="1655505490865">
+    <state width="1326" height="311" key="GridCell.Tab.0.left" timestamp="1655538964876">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="2" key="GridCell.Tab.0.left/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1655505490865" />
+    <state width="1326" height="311" key="GridCell.Tab.0.left/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1655538964876" />
     <state width="1326" height="227" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1654483402834" />
-    <state width="1326" height="2" key="GridCell.Tab.0.right" timestamp="1655505490866">
+    <state width="1326" height="311" key="GridCell.Tab.0.right" timestamp="1655538964876">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="2" key="GridCell.Tab.0.right/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1655505490866" />
+    <state width="1326" height="311" key="GridCell.Tab.0.right/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1655538964876" />
     <state width="1326" height="227" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1654483402834" />
     <state x="392" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1655172059753">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="392" y="264" key="com.intellij.ide.util.TipDialog/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1655172059753" />
+    <state x="276" y="141" key="new project wizard" timestamp="1655506780948">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="276" y="141" key="new project wizard/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1655506780948" />
   </component>
 </project>
