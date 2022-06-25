@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="705b738a-7d56-49be-9bb9-aaf6629e5fd0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT03_LocatorsLearning02_ScrollToElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT06_RadioButtonSelect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BasicsOfJava/AT11_UserDir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BasicsOfJava/AT13_TrimLearn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BasicsOfJava/USerDirExample.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT04_closeVsQuit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT08_Iframe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT09_listofLinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT10_DropDownSelect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/radiobuttonsLearning.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumLearning/AT02_LocatorsLearning.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SeleniumLearning/AT02_LocatorsLearning.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +59,8 @@
       <recent name="LoopsNConditionalStatments" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AT06_RadioButtonSelect.NavHn">
-    <configuration name="AT01_NavigateTitleAssertScreenshot.NavtoWebPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.radiobuttonsLearning.NavHn">
+    <configuration name="AT08_Iframe" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AmarProject" />
       <extension name="coverage">
         <pattern>
@@ -64,29 +69,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="SeleniumLearning" />
-      <option name="MAIN_CLASS_NAME" value="SeleniumLearning.AT01_NavigateTitleAssertScreenshot" />
-      <option name="METHOD_NAME" value="NavtoWebPage" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AT02_LocatorsLearning" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="AmarProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SeleniumLearning.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="SeleniumLearning" />
-      <option name="MAIN_CLASS_NAME" value="SeleniumLearning.AT02_LocatorsLearning" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumLearning.AT08_Iframe" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AT02_LocatorsLearning.locLearn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AT08_Iframe.iframeListSelect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AmarProject" />
       <extension name="coverage">
         <pattern>
@@ -95,14 +84,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="SeleniumLearning" />
-      <option name="MAIN_CLASS_NAME" value="SeleniumLearning.AT02_LocatorsLearning" />
-      <option name="METHOD_NAME" value="locLearn" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumLearning.AT08_Iframe" />
+      <option name="METHOD_NAME" value="iframeListSelect" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AT03_LocatorsLearning02_ScrollToElement.locLearn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AT10_DropDownSelect.iframeReg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AmarProject" />
       <extension name="coverage">
         <pattern>
@@ -111,14 +100,29 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="SeleniumLearning" />
-      <option name="MAIN_CLASS_NAME" value="SeleniumLearning.AT03_LocatorsLearning02_ScrollToElement" />
-      <option name="METHOD_NAME" value="locLearn" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumLearning.AT10_DropDownSelect" />
+      <option name="METHOD_NAME" value="iframeReg" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AT06_RadioButtonSelect.NavHn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AT11_UserDir" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AmarProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicsOfJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BasicsOfJava" />
+      <option name="MAIN_CLASS_NAME" value="BasicsOfJava.AT11_UserDir" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="radiobuttonsLearning.NavHn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AmarProject" />
       <extension name="coverage">
         <pattern>
@@ -127,7 +131,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="SeleniumLearning" />
-      <option name="MAIN_CLASS_NAME" value="SeleniumLearning.AT06_RadioButtonSelect" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumLearning.radiobuttonsLearning" />
       <option name="METHOD_NAME" value="NavHn" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -136,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AT06_RadioButtonSelect.NavHn" />
-        <item itemvalue="JUnit.AT03_LocatorsLearning02_ScrollToElement.locLearn" />
-        <item itemvalue="JUnit.AT02_LocatorsLearning" />
-        <item itemvalue="JUnit.AT02_LocatorsLearning.locLearn" />
-        <item itemvalue="JUnit.AT01_NavigateTitleAssertScreenshot.NavtoWebPage" />
+        <item itemvalue="JUnit.radiobuttonsLearning.NavHn" />
+        <item itemvalue="JUnit.AT11_UserDir" />
+        <item itemvalue="JUnit.AT08_Iframe" />
+        <item itemvalue="JUnit.AT08_Iframe.iframeListSelect" />
+        <item itemvalue="JUnit.AT10_DropDownSelect.iframeReg" />
       </list>
     </recent_temporary>
   </component>
@@ -169,25 +173,29 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="93" y="93" width="1181" height="685" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1655071755267" />
-    <state width="1326" height="311" key="GridCell.Tab.0.bottom" timestamp="1655538964877">
+    <state x="490" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1656145649612">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="311" key="GridCell.Tab.0.bottom/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1655538964877" />
+    <state x="490" y="146" key="#com.intellij.ide.util.MemberChooser/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1656145649612" />
+    <state width="1326" height="311" key="GridCell.Tab.0.bottom" timestamp="1656149005983">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="311" key="GridCell.Tab.0.bottom/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1656149005983" />
     <state width="1326" height="227" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1654483402834" />
-    <state width="1326" height="311" key="GridCell.Tab.0.center" timestamp="1655538964876">
+    <state width="1326" height="311" key="GridCell.Tab.0.center" timestamp="1656149005982">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="311" key="GridCell.Tab.0.center/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1655538964876" />
+    <state width="1326" height="311" key="GridCell.Tab.0.center/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1656149005982" />
     <state width="1326" height="227" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1654483402834" />
-    <state width="1326" height="311" key="GridCell.Tab.0.left" timestamp="1655538964876">
+    <state width="1326" height="311" key="GridCell.Tab.0.left" timestamp="1656149005982">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="311" key="GridCell.Tab.0.left/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1655538964876" />
+    <state width="1326" height="311" key="GridCell.Tab.0.left/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1656149005982" />
     <state width="1326" height="227" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1654483402834" />
-    <state width="1326" height="311" key="GridCell.Tab.0.right" timestamp="1655538964876">
+    <state width="1326" height="311" key="GridCell.Tab.0.right" timestamp="1656149005982">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="311" key="GridCell.Tab.0.right/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1655538964876" />
+    <state width="1326" height="311" key="GridCell.Tab.0.right/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1656149005982" />
     <state width="1326" height="227" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1654483402834" />
     <state x="392" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1655172059753">
       <screen x="0" y="0" width="1368" height="872" />
