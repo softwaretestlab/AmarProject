@@ -2,15 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="705b738a-7d56-49be-9bb9-aaf6629e5fd0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/BasicsOfJava/AT11_UserDir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BasicsOfJava/AT13_TrimLearn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BasicsOfJava/USerDirExample.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT04_closeVsQuit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT08_Iframe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT09_listofLinks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT10_DropDownSelect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/radiobuttonsLearning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseClass/OpenBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Data/TestDataHN1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PropertiesFile/ProjectName.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PropertiesFile/ReadPropertiesFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/excelReader/Xls_Reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT05_NavigateBackFront.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT11_webtables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT12_ExcelDataUsage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumLearning/radiobuttonsLearning.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,9 +60,12 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="LoopsNConditionalStatments" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\etikalaj\eclipse-workspace\AmarProject\src\main\java\Data" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.radiobuttonsLearning.NavHn">
-    <configuration name="AT08_Iframe" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.AT12_ExcelDataUsage.table">
+    <configuration name="AT05_NavigateBackFront" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AmarProject" />
       <extension name="coverage">
         <pattern>
@@ -69,13 +74,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="SeleniumLearning" />
-      <option name="MAIN_CLASS_NAME" value="SeleniumLearning.AT08_Iframe" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumLearning.AT05_NavigateBackFront" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AT08_Iframe.iframeListSelect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AT11_webtables" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AmarProject" />
       <extension name="coverage">
         <pattern>
@@ -84,45 +89,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="SeleniumLearning" />
-      <option name="MAIN_CLASS_NAME" value="SeleniumLearning.AT08_Iframe" />
-      <option name="METHOD_NAME" value="iframeListSelect" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AT10_DropDownSelect.iframeReg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="AmarProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SeleniumLearning.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="SeleniumLearning" />
-      <option name="MAIN_CLASS_NAME" value="SeleniumLearning.AT10_DropDownSelect" />
-      <option name="METHOD_NAME" value="iframeReg" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AT11_UserDir" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="AmarProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BasicsOfJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="BasicsOfJava" />
-      <option name="MAIN_CLASS_NAME" value="BasicsOfJava.AT11_UserDir" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumLearning.AT11_webtables" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="radiobuttonsLearning.NavHn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AT11_webtables.table" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AmarProject" />
       <extension name="coverage">
         <pattern>
@@ -131,8 +104,39 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="SeleniumLearning" />
-      <option name="MAIN_CLASS_NAME" value="SeleniumLearning.radiobuttonsLearning" />
-      <option name="METHOD_NAME" value="NavHn" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumLearning.AT11_webtables" />
+      <option name="METHOD_NAME" value="table" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AT12_ExcelDataUsage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AmarProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumLearning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SeleniumLearning" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumLearning.AT12_ExcelDataUsage" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AT12_ExcelDataUsage.table" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AmarProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumLearning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SeleniumLearning" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumLearning.AT12_ExcelDataUsage" />
+      <option name="METHOD_NAME" value="table" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -140,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.radiobuttonsLearning.NavHn" />
-        <item itemvalue="JUnit.AT11_UserDir" />
-        <item itemvalue="JUnit.AT08_Iframe" />
-        <item itemvalue="JUnit.AT08_Iframe.iframeListSelect" />
-        <item itemvalue="JUnit.AT10_DropDownSelect.iframeReg" />
+        <item itemvalue="JUnit.AT12_ExcelDataUsage.table" />
+        <item itemvalue="JUnit.AT12_ExcelDataUsage" />
+        <item itemvalue="JUnit.AT11_webtables.table" />
+        <item itemvalue="JUnit.AT11_webtables" />
+        <item itemvalue="JUnit.AT05_NavigateBackFront" />
       </list>
     </recent_temporary>
   </component>
@@ -177,30 +181,30 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="490" y="146" key="#com.intellij.ide.util.MemberChooser/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1656145649612" />
-    <state width="1326" height="311" key="GridCell.Tab.0.bottom" timestamp="1656149005983">
+    <state width="1326" height="271" key="GridCell.Tab.0.bottom" timestamp="1656203022347">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="311" key="GridCell.Tab.0.bottom/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1656149005983" />
+    <state width="1326" height="271" key="GridCell.Tab.0.bottom/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1656203022347" />
     <state width="1326" height="227" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1654483402834" />
-    <state width="1326" height="311" key="GridCell.Tab.0.center" timestamp="1656149005982">
+    <state width="1326" height="271" key="GridCell.Tab.0.center" timestamp="1656203022347">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="311" key="GridCell.Tab.0.center/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1656149005982" />
+    <state width="1326" height="271" key="GridCell.Tab.0.center/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1656203022347" />
     <state width="1326" height="227" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1654483402834" />
-    <state width="1326" height="311" key="GridCell.Tab.0.left" timestamp="1656149005982">
+    <state width="1326" height="271" key="GridCell.Tab.0.left" timestamp="1656203022347">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="311" key="GridCell.Tab.0.left/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1656149005982" />
+    <state width="1326" height="271" key="GridCell.Tab.0.left/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1656203022347" />
     <state width="1326" height="227" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1654483402834" />
-    <state width="1326" height="311" key="GridCell.Tab.0.right" timestamp="1656149005982">
+    <state width="1326" height="271" key="GridCell.Tab.0.right" timestamp="1656203022347">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="311" key="GridCell.Tab.0.right/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1656149005982" />
+    <state width="1326" height="271" key="GridCell.Tab.0.right/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1656203022347" />
     <state width="1326" height="227" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1654483402834" />
-    <state x="392" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1655172059753">
+    <state x="392" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1656194337256">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="392" y="264" key="com.intellij.ide.util.TipDialog/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1655172059753" />
+    <state x="392" y="264" key="com.intellij.ide.util.TipDialog/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1656194337256" />
     <state x="276" y="141" key="new project wizard" timestamp="1655506780948">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
