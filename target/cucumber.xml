@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="48.516">
+    <testcase classname="HN Homepage" name="Navigate to HN website" time="24.32">
+        <system-out>
+            <![CDATA[Given open browser and enter url and navigate to HN website.................passed
+Then get title and assert...................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="HN Homepage" name="Navigate to HN website 2" time="23.665">
+        <system-out>
+            <![CDATA[Given open browser and enter url and navigate to HN website.................passed
+Then get title and assert...................................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>

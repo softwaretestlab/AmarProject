@@ -1,2 +1,3 @@
 excelReader\Xls_Reader.class
+PropertiesFile\ReadPropertiesFile.class
 BaseClass\OpenBrowser.class
