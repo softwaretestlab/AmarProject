@@ -2,7 +2,6 @@ JavaOOPSconcepts\AT10_Polymorphism_MethodOverRiding01.class
 LoopsNConditionalStatments\AT06_ElseIf.class
 BasicsOfJava\AT02_LearnAboutMethod_Junit.class
 JavaOOPSconcepts\AT16_Interface02.class
-CucumberRelatedCode\AT01_NavigateNTitleAssert.class
 JavaOOPSconcepts\AT03_Encapsulation01.class
 SeleniumLearning\AT01_NavigateTitleAssertScreenshot.class
 BasicsOfJava\AT09_AccessArrayEle.class
@@ -10,7 +9,6 @@ BasicsOfJava\AT12_HashMap.class
 JavaOOPSconcepts\AT02_constructor02.class
 SeleniumLearning\AT05_NavigateBackFront.class
 JavaOOPSconcepts\AT04_Encapsulation02.class
-CucumberRelatedCode\AT04_CreatAnAccount.class
 LoopsNConditionalStatments\AT01_ForLoop01.class
 JavaOOPSconcepts\AT07_InHeritance03.class
 JavaOOPSconcepts\AT05_InHeritance01.class
@@ -18,8 +16,6 @@ BasicsOfJava\AT06_createAnObjectAndUseIt02.class
 JavaOOPSconcepts\AT15_Interface01.class
 LoopsNConditionalStatments\AT02_WhileLoop.class
 JavaOOPSconcepts\AT11_Polymorphism_MethodOverRiding02.class
-StepDefinations\SD04_CreateAnAccount.class
-runner\TestRunner.class
 SeleniumLearning\AT04_closeVsQuit.class
 BasicsOfJava\AT01_MainClassUsage.class
 BasicsOfJava\AT10_ArrayLoop.class
@@ -43,7 +39,6 @@ BasicsOfJava\AT11_UserDir.class
 BasicsOfJava\AT13_TrimLearn.class
 SeleniumLearning\AT09_listofLinks.class
 JavaOOPSconcepts\AT06_InHeritance02.class
-StepDefinations\SD01_NavigatetoHNwebsite.class
 JavaOOPSconcepts\AT13_AbstractClass01.class
 LoopsNConditionalStatments\AT04_IfCondition.class
 BasicsOfJava\AT05_createAnObjectAndUseIt01.class
