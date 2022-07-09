@@ -2,76 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="705b738a-7d56-49be-9bb9-aaf6629e5fd0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/STDOUT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CucumberRelatedCode/AT01_NavigateNTitleAssert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CucumberRelatedCode/AT04_CreatAnAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FeatureFIles/FF01_NavigateToHNwebsite01.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FeatureFIles/FF02_ReuseLearn.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FeatureFIles/FF04_CreateAnAccount.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/StepDefinations/SD01_NavigatetoHNwebsite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/StepDefinations/SD04_CreateAnAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runner/TestRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PropertiesFile/ProjectName.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PropertiesFile/ProjectName.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT03_LocatorsLearning02_ScrollToElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT03_LocatorsLearning02_ScrollToElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/AmarProject-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/BaseClass/OpenBrowser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PropertiesFile/ReadPropertiesFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/excelReader/Xls_Reader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/BasicsOfJava/AT01_MainClassUsage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/BasicsOfJava/AT02_LearnAboutMethod_Junit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/BasicsOfJava/AT03_StringInt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/BasicsOfJava/AT04_GlobalVariables.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/BasicsOfJava/AT05_createAnObjectAndUseIt01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/BasicsOfJava/AT06_createAnObjectAndUseIt02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/BasicsOfJava/AT07_staticmethod01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/BasicsOfJava/AT08_staticmethod02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/BasicsOfJava/AT09_AccessArrayEle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/BasicsOfJava/AT10_ArrayLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/BasicsOfJava/AT11_UserDir.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/BasicsOfJava/AT12_HashMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/BasicsOfJava/AT13_TrimLearn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/JavaOOPSconcepts/AT01_constructor01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/JavaOOPSconcepts/AT02_constructor02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/JavaOOPSconcepts/AT03_Encapsulation01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/JavaOOPSconcepts/AT04_Encapsulation02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/JavaOOPSconcepts/AT05_InHeritance01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/JavaOOPSconcepts/AT06_InHeritance02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/JavaOOPSconcepts/AT07_InHeritance03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/JavaOOPSconcepts/AT08_Polymorphism_MethodOverLoading01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/JavaOOPSconcepts/AT09_Polymorphism_MethodOverLoading02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/JavaOOPSconcepts/AT10_Polymorphism_MethodOverRiding01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/JavaOOPSconcepts/AT11_Polymorphism_MethodOverRiding02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/JavaOOPSconcepts/AT13_AbstractClass01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/JavaOOPSconcepts/AT14_AbstractClass02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/JavaOOPSconcepts/AT15_Interface01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/JavaOOPSconcepts/AT16_Interface02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LoopsNConditionalStatments/AT01_ForLoop01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LoopsNConditionalStatments/AT02_WhileLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LoopsNConditionalStatments/AT03_DoWhileLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LoopsNConditionalStatments/AT04_IfCondition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LoopsNConditionalStatments/AT05_IfElse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LoopsNConditionalStatments/AT06_AssertionLearing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LoopsNConditionalStatments/AT06_ElseIf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LoopsNConditionalStatments/AT06_SwitchStatement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumLearning/AT01_NavigateTitleAssertScreenshot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumLearning/AT02_LocatorsLearning.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumLearning/AT03_LocatorsLearning02_ScrollToElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumLearning/AT04_closeVsQuit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumLearning/AT05_NavigateBackFront.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumLearning/AT06_RadioButtonSelect.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumLearning/AT08_Iframe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumLearning/AT09_listofLinks.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumLearning/AT10_DropDownSelect.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumLearning/AT11_webtables.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumLearning/AT12_ExcelDataUsage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STDOUT" beforeDir="false" afterPath="$PROJECT_DIR$/STDOUT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CucumberCode/AT01_NavigateToHNwebsite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CucumberCode/AT01_NavigateToHNwebsite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CucumberCode/AT02_NavigatetoLoginToMyAccountScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CucumberCode/AT02_NavigatetoLoginToMyAccountScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CucumberCode/AT04_CreatAnAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CucumberCode/AT04_CreatAnAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FeatureFile/FF01_NavigateToHNwebsite.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FeatureFile/FF01_NavigateToHNwebsite.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FeatureFile/FF02_CreateAnAccountOnHN.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FeatureFile/FF02_CreateAnAccountOnHN.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT06_RadioButtonSelect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SeleniumLearning/AT06_RadioButtonSelect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinations/SD01_NavigateToHNwebsite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDefinations/SD01_NavigateToHNwebsite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinations/SD02_NavigateToLoginToMyAccountScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDefinations/SD02_NavigateToLoginToMyAccountScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinations/SD03_CreateAnAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDefinations/SD03_CreateAnAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runner/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runner/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/AmarProject-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/AmarProject-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-JVM-reports/cucumber-html-reports/overview-failures.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-JVM-reports/cucumber-html-reports/overview-failures.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-JVM-reports/cucumber-html-reports/overview-features.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-JVM-reports/cucumber-html-reports/overview-features.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-JVM-reports/cucumber-html-reports/overview-steps.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-JVM-reports/cucumber-html-reports/overview-steps.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-JVM-reports/cucumber-html-reports/overview-tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-JVM-reports/cucumber-html-reports/overview-tags.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-JVM-reports/cucumber-html-reports/report-feature_file-src-test-java-FeatureFile-FF01_NavigateToHNwebsite-feature_cucumber.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-JVM-reports/cucumber-html-reports/report-feature_file-src-test-java-FeatureFile-FF01_NavigateToHNwebsite-feature_cucumber.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-JVM-reports/cucumber-html-reports/report-tag_RegressionTesting.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-JVM-reports/cucumber-html-reports/report-tag_RegressionTesting.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-JVM-reports/cucumber-html-reports/report-tag_amar.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-JVM-reports/cucumber-html-reports/report-tag_amar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-report" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-html-report" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/rerun.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/rerun.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2022-07-02T08-42-01_280-jvmRun1.dump" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-runner.TestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-runner.TestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/runner.TestRunner.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/runner.TestRunner.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +77,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -131,14 +90,14 @@
       <recent name="C:\Users\etikalaj\eclipse-workspace\AmarProject\src\main\java\Data" />
     </key>
   </component>
-  <component name="RunManager" selected="Cucumber java.Scenario: Create an account with valid data">
-    <configuration name="Feature: FF01_NavigateToHNwebsite01" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TestRunner">
+    <configuration name="Feature: FF01_NavToHNWebsite" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/FeatureFIles/FF01_NavigateToHNwebsite01.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/FeatureFile/FF01_NavToHNWebsite.feature" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="AmarProject" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
-      <option name="SUGGESTED_NAME" value="Feature: FF01_NavigateToHNwebsite01" />
+      <option name="SUGGESTED_NAME" value="Feature: FF01_NavToHNWebsite" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="io.cucumber.core.cli.*" />
@@ -149,14 +108,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: Create an account with valid data" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Feature: FF01_NavigateToHNwebsite" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/FeatureFIles/FF04_CreateAnAccount.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/FeatureFile/FF01_NavigateToHNwebsite.feature" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="AmarProject" />
-      <option name="NAME_FILTER" value="^Create an account with valid data$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Create an account with valid data$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Create an account with valid data" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: FF01_NavigateToHNwebsite" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="io.cucumber.core.cli.*" />
@@ -167,33 +125,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AT01_NavigateNTitleAssert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Feature: FF02_CreateAnAccountOnHN" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/FeatureFile/FF02_CreateAnAccountOnHN.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="AmarProject" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: FF02_CreateAnAccountOnHN" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CucumberRelatedCode.*" />
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="CucumberRelatedCode" />
-      <option name="MAIN_CLASS_NAME" value="CucumberRelatedCode.AT01_NavigateNTitleAssert" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AT01_NavigateNTitleAssert.NavHn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Feature: NavigateToHNwebsite" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/FeatureFile/NavigateToHNwebsite.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="AmarProject" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: NavigateToHNwebsite" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CucumberRelatedCode.*" />
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="CucumberRelatedCode" />
-      <option name="MAIN_CLASS_NAME" value="CucumberRelatedCode.AT01_NavigateNTitleAssert" />
-      <option name="METHOD_NAME" value="NavHn" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -214,19 +175,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Cucumber java.Feature: FF01_NavigateToHNwebsite01" />
-      <item itemvalue="JUnit.AT01_NavigateNTitleAssert" />
-      <item itemvalue="JUnit.AT01_NavigateNTitleAssert.NavHn" />
+      <item itemvalue="Cucumber java.Feature: FF01_NavToHNWebsite" />
+      <item itemvalue="Cucumber java.Feature: NavigateToHNwebsite" />
+      <item itemvalue="Cucumber java.Feature: FF01_NavigateToHNwebsite" />
+      <item itemvalue="Cucumber java.Feature: FF02_CreateAnAccountOnHN" />
       <item itemvalue="JUnit.TestRunner" />
-      <item itemvalue="Cucumber java.Scenario: Create an account with valid data" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Cucumber java.Scenario: Create an account with valid data" />
         <item itemvalue="JUnit.TestRunner" />
-        <item itemvalue="Cucumber java.Feature: FF01_NavigateToHNwebsite01" />
-        <item itemvalue="JUnit.AT01_NavigateNTitleAssert.NavHn" />
-        <item itemvalue="JUnit.AT01_NavigateNTitleAssert" />
+        <item itemvalue="Cucumber java.Feature: FF02_CreateAnAccountOnHN" />
+        <item itemvalue="Cucumber java.Feature: FF01_NavigateToHNwebsite" />
+        <item itemvalue="Cucumber java.Feature: NavigateToHNwebsite" />
+        <item itemvalue="Cucumber java.Feature: FF01_NavToHNWebsite" />
       </list>
     </recent_temporary>
   </component>
@@ -262,10 +223,10 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="93" y="93" width="1181" height="685" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1655071755267" />
-    <state x="390" y="246" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1656294493318">
+    <state x="390" y="246" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1656713809389">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="390" y="246" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1656294493318" />
+    <state x="390" y="246" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1656713809389" />
     <state x="490" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1656145649612">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -274,57 +235,61 @@
       <screen x="2736" y="0" width="1600" height="860" />
     </state>
     <state x="3316" y="150" key="FileChooserDialogImpl/0.0.1368.872/2736.0.1600.860@2736.0.1600.860" timestamp="1656203430434" />
-    <state width="1326" height="336" key="GridCell.Tab.0.bottom" timestamp="1656295659729">
+    <state width="1326" height="262" key="GridCell.Tab.0.bottom" timestamp="1657351404743">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="336" key="GridCell.Tab.0.bottom/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1656295659729" />
+    <state width="1326" height="262" key="GridCell.Tab.0.bottom/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1657351404743" />
     <state width="1326" height="271" key="GridCell.Tab.0.bottom/0.0.1368.872/2736.0.1600.860@2736.0.1600.860" timestamp="1656204142357" />
     <state width="1326" height="227" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1654483402834" />
-    <state width="1326" height="336" key="GridCell.Tab.0.center" timestamp="1656295659729">
+    <state width="1326" height="262" key="GridCell.Tab.0.center" timestamp="1657351404743">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="336" key="GridCell.Tab.0.center/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1656295659729" />
+    <state width="1326" height="262" key="GridCell.Tab.0.center/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1657351404743" />
     <state width="1326" height="271" key="GridCell.Tab.0.center/0.0.1368.872/2736.0.1600.860@2736.0.1600.860" timestamp="1656204142356" />
     <state width="1326" height="227" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1654483402834" />
-    <state width="1326" height="336" key="GridCell.Tab.0.left" timestamp="1656295659728">
+    <state width="1326" height="262" key="GridCell.Tab.0.left" timestamp="1657351404743">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="336" key="GridCell.Tab.0.left/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1656295659728" />
+    <state width="1326" height="262" key="GridCell.Tab.0.left/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1657351404743" />
     <state width="1326" height="271" key="GridCell.Tab.0.left/0.0.1368.872/2736.0.1600.860@2736.0.1600.860" timestamp="1656204142355" />
     <state width="1326" height="227" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1654483402834" />
-    <state width="1326" height="336" key="GridCell.Tab.0.right" timestamp="1656295659729">
+    <state width="1326" height="262" key="GridCell.Tab.0.right" timestamp="1657351404743">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="336" key="GridCell.Tab.0.right/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1656295659729" />
+    <state width="1326" height="262" key="GridCell.Tab.0.right/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1657351404743" />
     <state width="1326" height="271" key="GridCell.Tab.0.right/0.0.1368.872/2736.0.1600.860@2736.0.1600.860" timestamp="1656204142356" />
     <state width="1326" height="227" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1654483402834" />
-    <state width="1326" height="281" key="GridCell.Tab.1.bottom" timestamp="1656288799274">
+    <state width="1326" height="281" key="GridCell.Tab.1.bottom" timestamp="1656891851958">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="281" key="GridCell.Tab.1.bottom/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1656288799274" />
-    <state width="1326" height="281" key="GridCell.Tab.1.center" timestamp="1656288799274">
+    <state width="1326" height="281" key="GridCell.Tab.1.bottom/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1656891851958" />
+    <state width="1326" height="281" key="GridCell.Tab.1.center" timestamp="1656891851958">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="281" key="GridCell.Tab.1.center/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1656288799274" />
-    <state width="1326" height="281" key="GridCell.Tab.1.left" timestamp="1656288799274">
+    <state width="1326" height="281" key="GridCell.Tab.1.center/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1656891851958" />
+    <state width="1326" height="281" key="GridCell.Tab.1.left" timestamp="1656891851958">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="281" key="GridCell.Tab.1.left/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1656288799274" />
-    <state width="1326" height="281" key="GridCell.Tab.1.right" timestamp="1656288799274">
+    <state width="1326" height="281" key="GridCell.Tab.1.left/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1656891851958" />
+    <state width="1326" height="281" key="GridCell.Tab.1.right" timestamp="1656891851958">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="281" key="GridCell.Tab.1.right/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1656288799274" />
-    <state x="188" y="29" key="SettingsEditor" timestamp="1656290842056">
+    <state width="1326" height="281" key="GridCell.Tab.1.right/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1656891851958" />
+    <state x="215" y="94" key="Maven.ArtifactSearchDialog" timestamp="1656712159383">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="188" y="29" key="SettingsEditor/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1656290842056" />
-    <state x="392" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1656293750446">
+    <state x="215" y="94" key="Maven.ArtifactSearchDialog/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1656712159383" />
+    <state x="188" y="29" key="SettingsEditor" timestamp="1656801307978">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="392" y="264" key="com.intellij.ide.util.TipDialog/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1656293750446" />
-    <state x="276" y="141" key="new project wizard" timestamp="1655506780948">
+    <state x="188" y="29" key="SettingsEditor/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1656801307978" />
+    <state x="392" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1656893788367">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="276" y="141" key="new project wizard/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1655506780948" />
+    <state x="392" y="264" key="com.intellij.ide.util.TipDialog/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1656893788367" />
+    <state x="276" y="141" key="new project wizard" timestamp="1656796505694">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="276" y="141" key="new project wizard/0.0.1368.872/2736.0.1600.860@0.0.1368.872" timestamp="1656796505693" />
   </component>
 </project>

@@ -19,7 +19,7 @@ public class AT01_NavigateToHNwebsite {
         //get title
         String ActualTitle= OpenBrowser.driver.getTitle();
         System.out.println("HNTitle : "+ActualTitle);
-        String ExpectedTitle = "Harvey Norman | Shop Online for Computers, Electrical, Furniture, Bedding, Bathrooms & Flooring | Harvey Norman Australia";
+        String ExpectedTitle = "Harvey Norman | Computers, Electrical, Furniture & Bedding | Harvey Norman Australia";
         //Assertion Version-1
         Assert.assertEquals(ExpectedTitle,ActualTitle);
     }
