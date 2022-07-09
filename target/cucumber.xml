@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="44.923">
-<testcase classname="HN homepage" name="Navigate to HN website" time="21.845">
-<system-out><![CDATA[Given open the browser and enter url and navigate to HN website.............passed
-Then get title and assert...................................................passed
-]]></system-out>
-</testcase>
-<testcase classname="HN homepage" name="Nav to login screen" time="22.663">
-<system-out><![CDATA[Given open the browser and enter url and navigate to HN website.............passed
-Then navigate to login to my account screen.................................passed
-]]></system-out>
-</testcase>
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="14.727">
+    <testcase classname="HN homepage" name="Navigate to HN website" time="14.353">
+        <failure message="expected:&lt;[Harvey Norman | Computers, Electrical, Furniture &amp; Bedding | Harvey Norman Australia]&gt; but was:&lt;[]&gt;" type="org.junit.ComparisonFailure">
+            <![CDATA[Given open the browser and enter url and navigate to HN website.............passed
+Then get title and assert...................................................failed
+
+StackTrace:
+org.junit.ComparisonFailure: expected:<[Harvey Norman | Computers, Electrical, Furniture & Bedding | Harvey Norman Australia]> but was:<[]>
+	at org.junit.Assert.assertEquals(Assert.java:115)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at CucumberCode.AT01_NavigateToHNwebsite.AsserTitle(AT01_NavigateToHNwebsite.java:24)
+	at StepDefinations.SD01_NavigateToHNwebsite.get_title_and_assert(SD01_NavigateToHNwebsite.java:18)
+	at ✽.get title and assert(file:///C:/Users/etikalaj/eclipse-workspace/AmarProject/src/test/java/FeatureFile/FF01_NavigateToHNwebsite.feature:16)
+]]>
+        </failure>
+    </testcase>
 </testsuite>

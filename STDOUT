@@ -1,10 +1,12 @@
 
-@SITtest @smokeTest
-Scenario: Navigate to HN website                              [90m# src/test/java/FeatureFIles/FF01_NavigateToHNwebsite01.feature:6[0m
-  [32mGiven [0m[32mopen browser and enter url and navigate to HN website[0m [90m# StepDefinations.SD01_NavigatetoHNwebsite.open_browser_and_enter_url_and_navigate_to_hn_website()[0m
-  [32mThen [0m[32mget title and assert[0m                                   [90m# StepDefinations.SD01_NavigatetoHNwebsite.get_title_and_assert()[0m
-
-@SITtest @RegressionTest
-Scenario: Navigate to HN website                              [90m# src/test/java/FeatureFIles/FF01_NavigateToHNwebsite01.feature:12[0m
-  [32mGiven [0m[32mopen browser and enter url and navigate to HN website[0m [90m# StepDefinations.SD01_NavigatetoHNwebsite.open_browser_and_enter_url_and_navigate_to_hn_website()[0m
-  [32mThen [0m[32mget title and assert[0m                                   [90m# StepDefinations.SD01_NavigatetoHNwebsite.get_title_and_assert()[0m
+@RegressionTesting @amar
+Scenario: Navigate to HN website                                  [90m# src/test/java/FeatureFile/FF01_NavigateToHNwebsite.feature:14[0m
+  [32mGiven [0m[32mopen the browser and enter url and navigate to HN website[0m [90m# StepDefinations.SD01_NavigateToHNwebsite.open_the_browser_and_enter_url_and_navigate_to_hn_website()[0m
+  [31mThen [0m[31mget title and assert[0m                                       [90m# StepDefinations.SD01_NavigateToHNwebsite.get_title_and_assert()[0m
+      [31morg.junit.ComparisonFailure: expected:<[Harvey Norman | Computers, Electrical, Furniture & Bedding | Harvey Norman Australia]> but was:<[]>
+	at org.junit.Assert.assertEquals(Assert.java:115)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at CucumberCode.AT01_NavigateToHNwebsite.AsserTitle(AT01_NavigateToHNwebsite.java:24)
+	at StepDefinations.SD01_NavigateToHNwebsite.get_title_and_assert(SD01_NavigateToHNwebsite.java:18)
+	at ✽.get title and assert(file:///C:/Users/etikalaj/eclipse-workspace/AmarProject/src/test/java/FeatureFile/FF01_NavigateToHNwebsite.feature:16)
+[0m

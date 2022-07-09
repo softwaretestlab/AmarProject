@@ -26,7 +26,7 @@ public class AT06_RadioButtonSelect {
         //Navigate to HN website
         driver.get("http://www.echoecho.com/htmlforms10.htm");
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-        List<WebElement> RadioButtonsList=driver.findElements(By.name("radio1"));
+        List<WebElement> RadioButtonsList=driver.findElements(By.xpath("radio1"));
         int RadioSize=RadioButtonsList.size();
         System.out.println("RadioSize :"+RadioSize);
             // this will click on second button
